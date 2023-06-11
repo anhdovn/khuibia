@@ -1,0 +1,183 @@
+{
+  "sheetsById": {
+    "Khui bia": {
+      "staticOverrides": {
+        "byObject": {
+          "Scene1_Logo": {
+            "position": {
+              "y": 1.3801177747586735,
+              "z": 0,
+              "x": 0
+            },
+            "scale": {
+              "x": 0.88,
+              "y": 0.5,
+              "z": 0.5
+            }
+          },
+          "Camera": {
+            "position": {
+              "z": 2
+            }
+          },
+          "Scene1_Text1": {
+            "position": {
+              "x": 0,
+              "y": 1.1967710343214568,
+              "z": 0
+            },
+            "scale": {
+              "y": 0.5,
+              "x": 1.89,
+              "z": 0.5
+            }
+          },
+          "ChaiBia2D_0": {
+            "position": {
+              "x": -0.4,
+              "y": 0.7,
+              "z": 0
+            },
+            "scale": {
+              "y": 1.25,
+              "x": 0.5,
+              "z": 0.5
+            }
+          },
+          "ChaiBia2D_1": {
+            "scale": {
+              "x": 0.5,
+              "z": 0.5,
+              "y": 1.25
+            },
+            "position": {
+              "y": 0.7
+            }
+          },
+          "ChaiBia2D_2": {
+            "scale": {
+              "x": 0.5,
+              "z": 0.5,
+              "y": 1.25
+            },
+            "position": {
+              "y": 0.7,
+              "z": 0,
+              "x": 0.4
+            }
+          },
+          "ChaiBia2D_3": {
+            "scale": {
+              "x": 0.5,
+              "z": 0.5,
+              "y": 1.25
+            },
+            "position": {
+              "x": -0.4
+            }
+          },
+          "ChaiBia2D_4": {
+            "scale": {
+              "y": 1.25,
+              "z": 0.5,
+              "x": 0.5
+            }
+          },
+          "ChaiBia2D_5": {
+            "scale": {
+              "x": 0.5,
+              "y": 1.25,
+              "z": 0.5
+            },
+            "position": {
+              "x": 0.4
+            }
+          },
+          "ChaiBia2DOutLine_0": {
+            "position": {
+              "x": -0.4,
+              "y": 0.7,
+              "z": -0.0001
+            },
+            "scale": {
+              "x": 0.5,
+              "y": 1.25,
+              "z": 0.5
+            }
+          },
+          "ChaiBia2DOutLine_1": {
+            "position": {
+              "y": 0.7,
+              "z": -0.0001
+            },
+            "scale": {
+              "x": 0.5,
+              "y": 1.25,
+              "z": 0.5
+            }
+          },
+          "ChaiBia2DOutLine_2": {
+            "position": {
+              "x": 0.4,
+              "y": 0.7,
+              "z": -0.0001
+            },
+            "scale": {
+              "x": 0.5,
+              "z": 0.5,
+              "y": 1.25
+            }
+          },
+          "ChaiBia2DOutLine_3": {
+            "position": {
+              "x": -0.4,
+              "z": -0.0001
+            },
+            "scale": {
+              "x": 0.5,
+              "y": 1.25,
+              "z": 0.5
+            }
+          },
+          "ChaiBia2DOutLine_4": {
+            "scale": {
+              "x": 0.5,
+              "z": 0.5,
+              "y": 1.25
+            },
+            "position": {
+              "z": -0.0001
+            }
+          },
+          "ChaiBia2DOutLine_5": {
+            "scale": {
+              "x": 0.5,
+              "z": 0.5,
+              "y": 1.25
+            },
+            "position": {
+              "z": -0.0001,
+              "x": 0.4
+            }
+          },
+          "Scene1_Text2": {
+            "position": {
+              "x": 0,
+              "y": -0.6,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.144,
+              "y": 0.5,
+              "z": 0.5
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "P76hMj-UlT6zJOYW"
+  ]
+}
