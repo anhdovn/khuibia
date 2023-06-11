@@ -1,5 +1,10 @@
 import React from "react";
+import Scene1 from "./components/Scene1";
 
 export default function Scene() {
-  return <div>Scene</div>;
+  return (
+    <>
+      <Scene1 />
+    </>
+  );
 }
