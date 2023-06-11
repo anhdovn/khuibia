@@ -1,0 +1,28 @@
+{
+  "sheetsById": {
+    "chai": {
+      "staticOverrides": {
+        "byObject": {
+          "PointLight": {
+            "position": {
+              "y": 1.7557006818271041,
+              "x": -1.7557006818271244,
+              "z": 3.257429425194366
+            }
+          },
+          "Cube": {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "5Z-HpVfmarRXeWPb"
+  ]
+}

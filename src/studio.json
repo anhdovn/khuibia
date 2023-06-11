@@ -1,0 +1,137 @@
+{
+  "sheetsById": {
+    "R3F UI": {
+      "staticOverrides": {
+        "byObject": {
+          "Editor": {
+            "viewport": {
+              "shading": "flat",
+              "referenceWindow": "maximized"
+            },
+            "transformControls": {
+              "space": "world"
+            }
+          },
+          "Editor Camera snapshot #1": {
+            "transform": {
+              "position": {
+                "x": 0,
+                "y": 5
+              }
+            }
+          }
+        }
+      },
+      "sequence": {
+        "subUnitsPerUnit": 30,
+        "length": 10,
+        "type": "PositionalSequence",
+        "tracksByObject": {
+          "Editor Camera snapshot #1": {
+            "trackData": {
+              "07Yx-ARDM5": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Editor Camera snapshot #1:[\"transform\",\"position\",\"x\"]",
+                "keyframes": [
+                  {
+                    "id": "QVXf14z7q2",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0
+                  },
+                  {
+                    "id": "IU7uxMCxmf",
+                    "position": 0.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 10
+                  }
+                ]
+              },
+              "n16SV1pcmI": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Editor Camera snapshot #1:[\"transform\",\"position\",\"y\"]",
+                "keyframes": [
+                  {
+                    "id": "X5HtIwUl35",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 5
+                  },
+                  {
+                    "id": "WKqorv7aZg",
+                    "position": 0.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 10
+                  }
+                ]
+              },
+              "PtjGRk3w5K": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Editor Camera snapshot #1:[\"transform\",\"position\",\"z\"]",
+                "keyframes": [
+                  {
+                    "id": "Yifz7-3OFR",
+                    "position": 0.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0
+                  },
+                  {
+                    "id": "RC2BG14Tci",
+                    "position": 2,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 10
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"transform\",\"position\",\"x\"]": "07Yx-ARDM5",
+              "[\"transform\",\"position\",\"y\"]": "n16SV1pcmI",
+              "[\"transform\",\"position\",\"z\"]": "PtjGRk3w5K"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "J7gtQQP_aETv05FW"
+  ]
+}
