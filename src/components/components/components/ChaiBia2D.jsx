@@ -10,7 +10,7 @@ export default function ChaiBia2D({ index }) {
 
   return (
     <group>
-      <e.mesh theatreKey={`ChaiBia2D_${index}`}>
+      <e.mesh theatreKey={`ChaiBia2D_${index}`} scale={[0.65, 1.627, 0.65]}>
         <planeBufferGeometry attach="geometry" args={[0.5, 0.5]} />
         <meshBasicMaterial
           attach="material"
@@ -20,13 +20,13 @@ export default function ChaiBia2D({ index }) {
           //   blending={THREE.AdditiveBlending}
         />
       </e.mesh>
-      <e.mesh ref={ref} theatreKey={`ChaiBia2DOutLine_${index}`}>
+      <e.mesh ref={ref} theatreKey={`ChaiBia2DOutLine_${index}`} scale={[0.65, 1.627, 0.65]}>
         <planeBufferGeometry attach="geometry" args={[0.5, 0.5]} />
         <meshBasicMaterial
           attach="material"
           map={mapOutLine}
           transparent
-          opacity={0.7}
+          opacity={0.5}
           depthWrite={false}
           blending={THREE.AdditiveBlending}
         />

@@ -4,6 +4,7 @@ import { PerspectiveCamera, SheetProvider } from "@theatre/r3f";
 import extension from "@theatre/r3f/dist/extension";
 import studio from "@theatre/studio";
 import "./App.css";
+import state from './state.json'
 import Scene from "./components/Scene";
 
 studio.initialize();
